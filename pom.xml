@@ -494,7 +494,7 @@ your path down the rabbit hole.</message>
       <dependency>
         <groupId>com.fasterxml.jackson.core</groupId>
         <artifactId>jackson-databind</artifactId>
-        <version>${jackson2-databind.version}</version>
+        <version>2.10.1</version>
       </dependency>
 
       <dependency>
